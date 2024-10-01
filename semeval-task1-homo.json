@@ -1,0 +1,449 @@
+[
+  {
+    "sentence": "They hid from the gunman in a sauna where they could sweat it out .",
+    "src": "sweat"
+  },
+  { "sentence": "Wal - Mart isn ' t the only saving place !", "src": "saving" },
+  {
+    "sentence": "Can honeybee abuse lead to a sting operation ?",
+    "src": "sting"
+  },
+  {
+    "sentence": "A ditch digger was entrenched in his career .",
+    "src": "entrenched"
+  },
+  {
+    "sentence": "She was only a Blacksmith ' s daughter , but she knew how to forge ahead .",
+    "src": "forge"
+  },
+  {
+    "sentence": "Did you hear about the new pinata ? It ' s a huge hit .",
+    "src": "hit"
+  },
+  {
+    "sentence": "A bank manager who was also a high jumper spent most of his time in the vault .",
+    "src": "vault"
+  },
+  {
+    "sentence": "A discussion of digging a new mine shaft was too deep for him .",
+    "src": "deep"
+  },
+  {
+    "sentence": "She was suspected of stealing a brooch but they couldn ' t pin it on her .",
+    "src": "pin"
+  },
+  {
+    "sentence": "Once ice cream was invented the problem was licked .",
+    "src": "licked"
+  },
+  {
+    "sentence": "' ' There ' s room for one more , ' ' Tom admitted .",
+    "src": "admitted"
+  },
+  {
+    "sentence": "They threw a party for the inventor of the toaster . And he was toasted .",
+    "src": "toasted"
+  },
+  {
+    "sentence": "If you ' re a gardener you might call yourself a ' plant manager ' .",
+    "src": "plant"
+  },
+  {
+    "sentence": "My advanced geometry class is full of squares .",
+    "src": "squares"
+  },
+  {
+    "sentence": "Jesus changes grave situations . Happy Easter .",
+    "src": "grave"
+  },
+  {
+    "sentence": "I got angry when my cell phone battery died . My counselor suggested I find an outlet .",
+    "src": "outlet"
+  },
+  {
+    "sentence": "A cowboy who was also an artist could draw fast .",
+    "src": "draw"
+  },
+  {
+    "sentence": "' ' Angel dust ? Me ? Never touch it ! ' ' Tom snorted .",
+    "src": "snorted"
+  },
+  {
+    "sentence": "The fire chief was always asked burning questions .",
+    "src": "burning"
+  },
+  { "sentence": "OLD MECHANICS never die they just retire", "src": "retire" },
+  { "sentence": "Some diets cause a gut reaction .", "src": "gut" },
+  {
+    "sentence": "If you leave alphabet soup on the stove and go out , it could spell disaster .",
+    "src": "spell"
+  },
+  {
+    "sentence": "OLD BUNGEE JUMPERS sometimes die but they can still bounce back",
+    "src": "bounce"
+  },
+  {
+    "sentence": "The gunman took a shot at new opportunities .",
+    "src": "shot"
+  },
+  {
+    "sentence": "My name is Sandy , I just hang around the beach .",
+    "src": "Sandy"
+  },
+  { "sentence": "I ' ve struck oil ! Tom gushed .", "src": "gushed" },
+  {
+    "sentence": "Getting rid of your boat for another could cause a whole raft of problems .",
+    "src": "raft"
+  },
+  { "sentence": "My name is John . I ' m a plumber", "src": "John" },
+  {
+    "sentence": "' ' Pretend we were in the days before railways , ' ' Tom coached .",
+    "src": "coached"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just get broken down by age , sex and marital status .",
+    "src": "broken"
+  },
+  {
+    "sentence": "Did you hear about the crime that happened in a parking garage ? It was wrong on so many levels .",
+    "src": "levels"
+  },
+  {
+    "sentence": "Two astronauts who were dating put an end to it because they both needed their space .",
+    "src": "space"
+  },
+  {
+    "sentence": "Luggage salespeople have to make a good case for you to buy .",
+    "src": "case"
+  },
+  {
+    "sentence": "A kettle on the stove was singing ' Home on the Range ' .",
+    "src": "Range"
+  },
+  { "sentence": "Musical mechanics always sing in parts .", "src": "parts" },
+  {
+    "sentence": "Hubble wanted to bring the idea into better focus .",
+    "src": "focus"
+  },
+  {
+    "sentence": "The decision to begin construction on the Empire State Building was a groundbreaking historical event .",
+    "src": "groundbreaking"
+  },
+  {
+    "sentence": "OLD QUILTERS never die , they just go under cover .",
+    "src": "cover"
+  },
+  {
+    "sentence": "When cannibals ate a missionary they got a taste of religion .",
+    "src": "taste"
+  },
+  {
+    "sentence": "OLD GUITARISTS never die , they just fret their lives away",
+    "src": "fret"
+  },
+  {
+    "sentence": "One evening King Arthur ' s men discovered Sir Lancelot ' s moonshine whiskey operation and shattered the still of the knight .",
+    "src": "still"
+  },
+  {
+    "sentence": "He stole an invention and then told patent lies .",
+    "src": "patent"
+  },
+  {
+    "sentence": "I made a batch of fish eye soup , it should see me through the week .",
+    "src": "see"
+  },
+  {
+    "sentence": "When he kicked the invoice , it didn ' t mean he wanted to foot the bill .",
+    "src": "foot"
+  },
+  {
+    "sentence": "Even though the well was a mystery to her , she didn ' t want to get to the bottom of it .",
+    "src": "bottom"
+  },
+  {
+    "sentence": "Old math teachers never die , they just become irrational .",
+    "src": "irrational"
+  },
+  {
+    "sentence": "Careless stair dancers are heading for a heavy landing .",
+    "src": "landing"
+  },
+  {
+    "sentence": "OLD LOGICIANS never die , they just vacate the premises .",
+    "src": "premises"
+  },
+  {
+    "sentence": "Lawyers have to like alcohol because they ' re always being called to the bar .",
+    "src": "bar"
+  },
+  {
+    "sentence": "Baseball players are expected to perform well right off the bat .",
+    "src": "bat"
+  },
+  {
+    "sentence": "Vines are extremely short - tempered . They snap at the slightest wind .",
+    "src": "snap"
+  },
+  {
+    "sentence": "The man brought an umbrella with him into the ice cream store because he heard there was a chance of sprinkles .",
+    "src": "sprinkles"
+  },
+  {
+    "sentence": "OLD ACADEMICIANS never die , they just lose their faculties",
+    "src": "faculties"
+  },
+  {
+    "sentence": "Bring me a rubber band and make it snappy !",
+    "src": "snappy"
+  },
+  {
+    "sentence": "An electric company is always looking for high energy employees .",
+    "src": "energy"
+  },
+  {
+    "sentence": "When a thief stole several volumes from the library he was quickly booked .",
+    "src": "booked"
+  },
+  {
+    "sentence": "The inept mathematician couldn ' t count on his friends .",
+    "src": "count"
+  },
+  {
+    "sentence": "The phone call interrupted my nap , and I never did get the rest .",
+    "src": "rest"
+  },
+  {
+    "sentence": "When potato chips don ' t sell fast enough , the maker knows it will soon be crunch time .",
+    "src": "crunch"
+  },
+  { "sentence": "Save the whales , spouted Tom .", "src": "spouted" },
+  {
+    "sentence": "OLD HIKERS never die they just get the boot .",
+    "src": "boot"
+  },
+  { "sentence": "Come in for a free makeover this Sunday", "src": "makeover" },
+  { "sentence": "Superglue ! Tom rejoined .", "src": "rejoined" },
+  {
+    "sentence": "Admitting a mistake : ' ' Like the orthopedist ' s patient , I stand corrected . ' '",
+    "src": "stand"
+  },
+  {
+    "sentence": "For every 45 I collected , I would write down the song and the artist so I could keep records .",
+    "src": "records"
+  },
+  {
+    "sentence": "' ' There , there , ' ' was Tom ' s pat answer .",
+    "src": "pat"
+  },
+  {
+    "sentence": "A contest held by fire fighters is called a ' match ' .",
+    "src": "match"
+  },
+  { "sentence": "No one chills out in the fires of hell .", "src": "chills" },
+  {
+    "sentence": "A lot of trees were dying , but they needed to figure out the root of the problem .",
+    "src": "root"
+  },
+  {
+    "sentence": "OLD PILOTS never die , they just get more turbulent .",
+    "src": "turbulent"
+  },
+  {
+    "sentence": "A guy became so good with a chainsaw that he was promoted to branch manager .",
+    "src": "branch"
+  },
+  {
+    "sentence": "Don ' t argue with a bomb inventor - he might blow up at you .",
+    "src": "blow"
+  },
+  {
+    "sentence": "Don\u2019t let adversity get you down unless you are on your knees",
+    "src": "down"
+  },
+  {
+    "sentence": "She was only a Wrestler ' s daughter , but you oughtta see her box . .",
+    "src": "box"
+  },
+  {
+    "sentence": "OLD DOOR FRAMERS never die , they just become unhinged .",
+    "src": "unhinged"
+  },
+  {
+    "sentence": "I was against the construction of tennis courts in the park as I thought they would cause too much racket .",
+    "src": "racket"
+  },
+  { "sentence": "I ' m dying , Tom croaked .", "src": "croaked" },
+  {
+    "sentence": "In a recession , the most secure job is garbage - man . Business is always picking up .",
+    "src": "picking"
+  },
+  {
+    "sentence": "Wilbur Wright said he ' d take a flier on it .",
+    "src": "flier"
+  },
+  {
+    "sentence": "A man brought his retriever to the vet for some tests and had to pay a lab fee .",
+    "src": "lab"
+  },
+  {
+    "sentence": "They replaced the baseball with an orange to add zest to the game .",
+    "src": "zest"
+  },
+  {
+    "sentence": "If you operate a drill press you have a boring job .",
+    "src": "boring"
+  },
+  { "sentence": "Figure skaters don ' t like to be in a rut .", "src": "rut" },
+  {
+    "sentence": "A thief who stole a calendar got twelve months .",
+    "src": "got"
+  },
+  {
+    "sentence": "OLD PRINTERS never die they ' re just not the type",
+    "src": "type"
+  },
+  {
+    "sentence": "A play , based on billiards , started right on cue .",
+    "src": "cue"
+  },
+  {
+    "sentence": "My father slept under the bed , I think he was a little potty .",
+    "src": "potty"
+  },
+  { "sentence": "Is coffee your daily grind ?", "src": "grind" },
+  {
+    "sentence": "Some people find fire drills quite Alarming .",
+    "src": "Alarming"
+  },
+  {
+    "sentence": "Old math profs never die , they just can ' t differentiate .",
+    "src": "differentiate"
+  },
+  {
+    "sentence": "The inventor of glass decided to see it through .",
+    "src": "see"
+  },
+  {
+    "sentence": "A noun and a verb were dating but they broke up because the noun was too possessive .",
+    "src": "possessive"
+  },
+  { "sentence": "Hell ! . . . I\u2019d forgotten about that !", "src": "Hell" },
+  {
+    "sentence": "She was only a Pitcher ' s daughter , but you should have seen her curves .",
+    "src": "curves"
+  },
+  {
+    "sentence": "A baseball player can sell himself to a new team if he has a good pitch .",
+    "src": "pitch"
+  },
+  {
+    "sentence": "' ' Use your own toothbrush ! ' ' Tom bristled .",
+    "src": "bristled"
+  },
+  { "sentence": "My name is Bill . I run a collection agency", "src": "Bill" },
+  {
+    "sentence": "OLD BAKERS never die , they just stop making lots of dough .",
+    "src": "dough"
+  },
+  {
+    "sentence": "The couple grew fruit trees and lived to a ripe old age .",
+    "src": "ripe"
+  },
+  {
+    "sentence": "The plumber had to quit his job because it was too much of a drain .",
+    "src": "drain"
+  },
+  {
+    "sentence": "Finding area is an integral part of calculus .",
+    "src": "integral"
+  },
+  {
+    "sentence": "If you sing while playing baseball , you won ' t get a good pitch .",
+    "src": "pitch"
+  },
+  {
+    "sentence": "OLD PINEAPPLE GROWERS never die , they just get on the dole .",
+    "src": "dole"
+  },
+  {
+    "sentence": "Some commands given by the army are specific , others are General .",
+    "src": "General"
+  },
+  {
+    "sentence": "If a horse could predict the weather , it would probably say that the weather is stable .",
+    "src": "stable"
+  },
+  {
+    "sentence": "She was only a Weatherman ' ' s daughter , but she sure had a warm front .",
+    "src": "front"
+  },
+  {
+    "sentence": "OLD LOCOMOTIVE ENGINEERS , never die , they just get derailed",
+    "src": "derailed"
+  },
+  {
+    "sentence": "A doctor who became a bartender was always giving out shots !",
+    "src": "shots"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just average out .",
+    "src": "average"
+  },
+  {
+    "sentence": "A little boy fired his light - colored crayons because they wouldn ' t show up .",
+    "src": "show"
+  },
+  {
+    "sentence": "With certain cashiers , things are slow to register .",
+    "src": "register"
+  },
+  {
+    "sentence": "OLD ELECTRICIANS never die they just lose contact .",
+    "src": "contact"
+  },
+  {
+    "sentence": "' ' Perhaps I will , ' ' said Tom with all his might .",
+    "src": "might"
+  },
+  {
+    "sentence": "The comedian stopped at the fabric store on his way to a comedy gig . He was looking for new material .",
+    "src": "material"
+  },
+  { "sentence": "- Call me a taxi . - OK , you ' re a taxi .", "src": "Call" },
+  {
+    "sentence": "Someone who sells old chess pieces is a pawn broker .",
+    "src": "pawn"
+  },
+  {
+    "sentence": "The model who joined the air force was a bombshell .",
+    "src": "bombshell"
+  },
+  {
+    "sentence": "OLD PLUMBERS never die , they just pipe down .",
+    "src": "pipe"
+  },
+  {
+    "sentence": "The surgeon really did not know how to perform quick surgeries on insects , but he did one on the fly .",
+    "src": "fly"
+  },
+  {
+    "sentence": "OLD STATISTICIANS never die , they just get mean .",
+    "src": "mean"
+  },
+  {
+    "sentence": "We went to the owls convention and it was a real hoot .",
+    "src": "hoot"
+  },
+  {
+    "sentence": "OLD GARDENERS never die they are just deflowered .",
+    "src": "deflowered"
+  },
+  {
+    "sentence": "In the air duct installers union they have lots of opportunity to vent .",
+    "src": "vent"
+  },
+  {
+    "sentence": "He and his partner made knives , and they shared a cut .",
+    "src": "cut"
+  }]

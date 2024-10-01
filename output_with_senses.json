@@ -1,0 +1,742 @@
+[
+    {
+        "sentence": "They hid from the gunman in a sauna where they could sweat it out .",
+        "src": "sweat",
+        "sense1": "excrete perspiration through the pores in the skin",
+        "sense2": "salty fluid secreted by sweat glands"
+    },
+    {
+        "sentence": "Wal - Mart isn ' t the only saving place !",
+        "src": "saving",
+        "sense1": "record data on a computer",
+        "sense2": "an act of economizing; reduction in cost"
+    },
+    {
+        "sentence": "Can honeybee abuse lead to a sting operation ?",
+        "src": "sting",
+        "sense1": "cause an emotional pain, as if by stinging",
+        "sense2": "a kind of pain; something as sudden and painful as being stung"
+    },
+    {
+        "sentence": "A ditch digger was entrenched in his career .",
+        "src": "entrenched",
+        "sense1": "impinge or infringe upon",
+        "sense2": "fix firmly or securely"
+    },
+    {
+        "sentence": "She was only a Blacksmith ' s daughter , but she knew how to forge ahead .",
+        "src": "forge",
+        "sense1": "move ahead steadily",
+        "sense2": "furnace consisting of a special hearth where metal is heated before shaping"
+    },
+    {
+        "sentence": "Did you hear about the new pinata ? It ' s a huge hit .",
+        "src": "hit",
+        "sense1": "a conspicuous success",
+        "sense2": "(baseball) a successful stroke in an athletic contest (especially in baseball)"
+    },
+    {
+        "sentence": "A bank manager who was also a high jumper spent most of his time in the vault .",
+        "src": "vault",
+        "sense1": "a strongroom or compartment (often made of steel) for safekeeping of valuables",
+        "sense2": "a burial chamber (usually underground)"
+    },
+    {
+        "sentence": "A discussion of digging a new mine shaft was too deep for him .",
+        "src": "deep",
+        "sense1": "of an obscure nature; ; ; ; - Rachel Carson",
+        "sense2": "the central and most intense or profound part"
+    },
+    {
+        "sentence": "She was suspected of stealing a brooch but they couldn ' t pin it on her .",
+        "src": "pin",
+        "sense1": "a piece of jewelry that is pinned onto the wearer's garment",
+        "sense2": "a piece of jewelry that is pinned onto the wearer's garment"
+    },
+    {
+        "sentence": "Once ice cream was invented the problem was licked .",
+        "src": "licked",
+        "sense1": "find the solution to (a problem or question) or understand the meaning of",
+        "sense2": "beat thoroughly and conclusively in a competition or fight"
+    },
+    {
+        "sentence": "' ' There ' s room for one more , ' ' Tom admitted .",
+        "src": "admitted",
+        "sense1": "serve as a means of entrance",
+        "sense2": "declare to be true or admit the existence or reality or truth of"
+    },
+    {
+        "sentence": "They threw a party for the inventor of the toaster . And he was toasted .",
+        "src": "toasted",
+        "sense1": "propose a toast to",
+        "sense2": "make brown and crisp by heating"
+    },
+    {
+        "sentence": "If you ' re a gardener you might call yourself a ' plant manager ' .",
+        "src": "plant",
+        "sense1": "put firmly in the mind",
+        "sense2": "buildings for carrying on industrial labor"
+    },
+    {
+        "sentence": "My advanced geometry class is full of squares .",
+        "src": "squares",
+        "sense1": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+        "sense2": "the product of two equal terms"
+    },
+    {
+        "sentence": "Jesus changes grave situations . Happy Easter .",
+        "src": "grave",
+        "sense1": "causing fear or anxiety by threatening great harm",
+        "sense2": "death of a person"
+    },
+    {
+        "sentence": "I got angry when my cell phone battery died . My counselor suggested I find an outlet .",
+        "src": "outlet",
+        "sense1": "receptacle providing a place in a wiring system where current can be taken to run electrical devices",
+        "sense2": "a place of business for retailing goods"
+    },
+    {
+        "sentence": "A cowboy who was also an artist could draw fast .",
+        "src": "draw",
+        "sense1": "take in, also metaphorically",
+        "sense2": "a gully that is shallower than a ravine"
+    },
+    {
+        "sentence": "' ' Angel dust ? Me ? Never touch it ! ' ' Tom snorted .",
+        "src": "snorted",
+        "sense1": "inhale through the nose",
+        "sense2": "indicate contempt by breathing noisily and forcefully through the nose"
+    },
+    {
+        "sentence": "The fire chief was always asked burning questions .",
+        "src": "burning",
+        "sense1": "a process in which a substance reacts with oxygen to give heat and light",
+        "sense2": "the act of burning something"
+    },
+    {
+        "sentence": "OLD MECHANICS never die they just retire",
+        "src": "retire",
+        "sense1": "lose interest",
+        "sense2": "go into retirement; stop performing one's work or withdraw from one's position"
+    },
+    {
+        "sentence": "Some diets cause a gut reaction .",
+        "src": "gut",
+        "sense1": "the part of the alimentary canal between the stomach and the anus",
+        "sense2": "the part of the alimentary canal between the stomach and the anus"
+    },
+    {
+        "sentence": "If you leave alphabet soup on the stove and go out , it could spell disaster .",
+        "src": "spell",
+        "sense1": "a time for working (after which you will be relieved by someone else)",
+        "sense2": "a psychological state induced by (or as if induced by) a magical incantation"
+    },
+    {
+        "sentence": "OLD BUNGEE JUMPERS sometimes die but they can still bounce back",
+        "src": "bounce",
+        "sense1": "refuse to accept and send back",
+        "sense2": "the quality of a substance that is able to rebound"
+    },
+    {
+        "sentence": "The gunman took a shot at new opportunities .",
+        "src": "shot",
+        "sense1": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+        "sense2": "the act of firing a projectile"
+    },
+    {
+        "sentence": "My name is Sandy , I just hang around the beach .",
+        "src": "Sandy",
+        "sense1": "of hair color; pale yellowish to yellowish brown",
+        "sense2": "of hair color; pale yellowish to yellowish brown"
+    },
+    {
+        "sentence": "I ' ve struck oil ! Tom gushed .",
+        "src": "gushed",
+        "sense1": "gush forth in a sudden stream or jet",
+        "sense2": "gush forth in a sudden stream or jet"
+    },
+    {
+        "sentence": "Getting rid of your boat for another could cause a whole raft of problems .",
+        "src": "raft",
+        "sense1": "make into a raft",
+        "sense2": "(often followed by `of') a large number or amount or extent"
+    },
+    {
+        "sentence": "My name is John . I ' m a plumber",
+        "src": "John",
+        "sense1": "a prostitute's customer",
+        "sense2": "a room or building equipped with one or more toilets"
+    },
+    {
+        "sentence": "' ' Pretend we were in the days before railways , ' ' Tom coached .",
+        "src": "coached",
+        "sense1": "drive a coach",
+        "sense2": "teach and supervise (someone); act as a trainer or coach (to), as in sports"
+    },
+    {
+        "sentence": "OLD STATISTICIANS never die , they just get broken down by age , sex and marital status .",
+        "src": "broken",
+        "sense1": "make known to the public information that was previously known only to a few people or that was meant to be kept a secret",
+        "sense2": "terminate"
+    },
+    {
+        "sentence": "Did you hear about the crime that happened in a parking garage ? It was wrong on so many levels .",
+        "src": "levels",
+        "sense1": "an abstract place usually conceived as having depth",
+        "sense2": "a position on a scale of intensity or amount or quality"
+    },
+    {
+        "sentence": "Two astronauts who were dating put an end to it because they both needed their space .",
+        "src": "space",
+        "sense1": "place at intervals",
+        "sense2": "an empty area (usually bounded in some way between things)"
+    },
+    {
+        "sentence": "Luggage salespeople have to make a good case for you to buy .",
+        "src": "case",
+        "sense1": "a portable container for carrying several objects",
+        "sense2": "an occurrence of something"
+    },
+    {
+        "sentence": "A kettle on the stove was singing ' Home on the Range ' .",
+        "src": "Range",
+        "sense1": "a kitchen appliance used for cooking food",
+        "sense2": "an area in which something acts or operates or has power or control:"
+    },
+    {
+        "sentence": "Musical mechanics always sing in parts .",
+        "src": "parts",
+        "sense1": "the melody carried by a particular voice or instrument in polyphonic music",
+        "sense2": "the local environment"
+    },
+    {
+        "sentence": "Hubble wanted to bring the idea into better focus .",
+        "src": "focus",
+        "sense1": "bring into focus or alignment; to converge or cause to converge; of ideas or emotions",
+        "sense2": "the concentration of attention or energy on something"
+    },
+    {
+        "sentence": "The decision to begin construction on the Empire State Building was a groundbreaking historical event .",
+        "src": "groundbreaking",
+        "sense1": "the ceremonial breaking of the ground to formally begin a construction project",
+        "sense2": "being or producing something like nothing done or experienced or created before"
+    },
+    {
+        "sentence": "OLD QUILTERS never die , they just go under cover .",
+        "src": "cover",
+        "sense1": "bedding that keeps a person warm in bed",
+        "sense2": "a covering that serves to conceal or shelter something"
+    },
+    {
+        "sentence": "When cannibals ate a missionary they got a taste of religion .",
+        "src": "taste",
+        "sense1": "a small amount eaten or drunk",
+        "sense2": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus"
+    },
+    {
+        "sentence": "OLD GUITARISTS never die , they just fret their lives away",
+        "src": "fret",
+        "sense1": "a spot that has been worn away by abrasion or erosion",
+        "sense2": "agitation resulting from active worry"
+    },
+    {
+        "sentence": "One evening King Arthur ' s men discovered Sir Lancelot ' s moonshine whiskey operation and shattered the still of the knight .",
+        "src": "still",
+        "sense1": "a static photograph (especially one taken from a movie and used for advertising purposes)",
+        "sense2": "(poetic) tranquil silence"
+    },
+    {
+        "sentence": "He stole an invention and then told patent lies .",
+        "src": "patent",
+        "sense1": "obtain a patent for",
+        "sense2": "a document granting an inventor sole rights to an invention"
+    },
+    {
+        "sentence": "I made a batch of fish eye soup , it should see me through the week .",
+        "src": "see",
+        "sense1": "observe as if with an eye",
+        "sense2": "the seat within a bishop's diocese where his cathedral is located"
+    },
+    {
+        "sentence": "When he kicked the invoice , it didn ' t mean he wanted to foot the bill .",
+        "src": "foot",
+        "sense1": "pay for something",
+        "sense2": "the part of the leg of a human being below the ankle joint"
+    },
+    {
+        "sentence": "Even though the well was a mystery to her , she didn ' t want to get to the bottom of it .",
+        "src": "bottom",
+        "sense1": "come to understand",
+        "sense2": "the lowest part of anything"
+    },
+    {
+        "sentence": "Old math teachers never die , they just become irrational .",
+        "src": "irrational",
+        "sense1": "a real number that cannot be expressed as a rational number",
+        "sense2": "a real number that cannot be expressed as a rational number"
+    },
+    {
+        "sentence": "Careless stair dancers are heading for a heavy landing .",
+        "src": "landing",
+        "sense1": "deliver (a blow)",
+        "sense2": "an intermediate platform in a staircase"
+    },
+    {
+        "sentence": "OLD LOGICIANS never die , they just vacate the premises .",
+        "src": "premises",
+        "sense1": "take something as preexisting and given",
+        "sense2": "land and the buildings on it"
+    },
+    {
+        "sentence": "Lawyers have to like alcohol because they ' re always being called to the bar .",
+        "src": "bar",
+        "sense1": "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried",
+        "sense2": "a room or establishment where alcoholic drinks are served over a counter"
+    },
+    {
+        "sentence": "Baseball players are expected to perform well right off the bat .",
+        "src": "bat",
+        "sense1": "strike with, or as if with a baseball bat",
+        "sense2": "(baseball) a turn trying to get a hit"
+    },
+    {
+        "sentence": "Vines are extremely short - tempered . They snap at the slightest wind .",
+        "src": "snap",
+        "sense1": "the tendency of a body to return to its original shape after it has been stretched or compressed",
+        "sense2": "the act of catching an object with the hands"
+    },
+    {
+        "sentence": "The man brought an umbrella with him into the ice cream store because he heard there was a chance of sprinkles .",
+        "src": "sprinkles",
+        "sense1": "scatter with liquid; wet lightly",
+        "sense2": "bits of sweet chocolate used as a topping on e.g. ice cream"
+    },
+    {
+        "sentence": "OLD ACADEMICIANS never die , they just lose their faculties",
+        "src": "faculties",
+        "sense1": "the body of teachers and administrators at a school",
+        "sense2": "one of the inherent cognitive or perceptual powers of the mind"
+    },
+    {
+        "sentence": "Bring me a rubber band and make it snappy !",
+        "src": "snappy",
+        "sense1": "smart and fashionable",
+        "sense2": "apt to speak irritably"
+    },
+    {
+        "sentence": "An electric company is always looking for high energy employees .",
+        "src": "energy",
+        "sense1": "any source of usable power",
+        "sense2": "forceful exertion"
+    },
+    {
+        "sentence": "When a thief stole several volumes from the library he was quickly booked .",
+        "src": "booked",
+        "sense1": "engage for a performance",
+        "sense2": "engage for a performance"
+    },
+    {
+        "sentence": "The inept mathematician couldn ' t count on his friends .",
+        "src": "count",
+        "sense1": "have faith or confidence in",
+        "sense2": "the total number counted"
+    },
+    {
+        "sentence": "The phone call interrupted my nap , and I never did get the rest .",
+        "src": "rest",
+        "sense1": "something left after other parts have been taken away",
+        "sense2": "something left after other parts have been taken away"
+    },
+    {
+        "sentence": "When potato chips don ' t sell fast enough , the maker knows it will soon be crunch time .",
+        "src": "crunch",
+        "sense1": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+        "sense2": "the sound of something crunching"
+    },
+    {
+        "sentence": "Save the whales , spouted Tom .",
+        "src": "spouted",
+        "sense1": "gush forth in a sudden stream or jet",
+        "sense2": "talk in a noisy, excited, or declamatory manner"
+    },
+    {
+        "sentence": "OLD HIKERS never die they just get the boot .",
+        "src": "boot",
+        "sense1": "the swift release of a store of affective force",
+        "sense2": "footwear that covers the whole foot and lower leg"
+    },
+    {
+        "sentence": "Come in for a free makeover this Sunday",
+        "src": "makeover",
+        "sense1": "a complete reconstruction and renovation of something",
+        "sense2": "an overall beauty treatment (involving a person's hair style and cosmetics and clothing) intended to change or improve a person's appearance"
+    },
+    {
+        "sentence": "Superglue ! Tom rejoined .",
+        "src": "rejoined",
+        "sense1": "answer back",
+        "sense2": "join again"
+    },
+    {
+        "sentence": "Admitting a mistake : ' ' Like the orthopedist ' s patient , I stand corrected . ' '",
+        "src": "stand",
+        "sense1": "be in some specified state or condition",
+        "sense2": "a support or foundation"
+    },
+    {
+        "sentence": "For every 45 I collected , I would write down the song and the artist so I could keep records .",
+        "src": "records",
+        "sense1": "register electronically",
+        "sense2": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events"
+    },
+    {
+        "sentence": "' ' There , there , ' ' was Tom ' s pat answer .",
+        "src": "pat",
+        "sense1": "a light touch or stroke",
+        "sense2": "the sound made by a gentle blow"
+    },
+    {
+        "sentence": "A contest held by fire fighters is called a ' match ' .",
+        "src": "match",
+        "sense1": "a formal contest in which two or more persons or teams compete",
+        "sense2": "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction"
+    },
+    {
+        "sentence": "No one chills out in the fires of hell .",
+        "src": "chills",
+        "sense1": "an almost pleasurable sensation of fright",
+        "sense2": "coldness due to a cold environment"
+    },
+    {
+        "sentence": "A lot of trees were dying , but they needed to figure out the root of the problem .",
+        "src": "root",
+        "sense1": "come into existence, originate",
+        "sense2": "(botany) the usually underground organ that lacks buds or leaves or nodes; absorbs water and mineral salts; usually it anchors the plant to the ground"
+    },
+    {
+        "sentence": "OLD PILOTS never die , they just get more turbulent .",
+        "src": "turbulent",
+        "sense1": "characterized by unrest or disorder or insubordination",
+        "sense2": "characterized by unrest or disorder or insubordination"
+    },
+    {
+        "sentence": "A guy became so good with a chainsaw that he was promoted to branch manager .",
+        "src": "branch",
+        "sense1": "grow and send out branches or branch-like structures",
+        "sense2": "a division of some larger or more complex organization"
+    },
+    {
+        "sentence": "Don ' t argue with a bomb inventor - he might blow up at you .",
+        "src": "blow",
+        "sense1": "spend thoughtlessly; throw away",
+        "sense2": "a powerful stroke with the fist or a weapon"
+    },
+    {
+        "sentence": "Don\u2019t let adversity get you down unless you are on your knees",
+        "src": "down",
+        "sense1": "drink down entirely",
+        "sense2": "soft fine feathers"
+    },
+    {
+        "sentence": "She was only a Wrestler ' s daughter , but you oughtta see her box . .",
+        "src": "box",
+        "sense1": "a predicament from which a skillful or graceful escape is impossible",
+        "sense2": "a (usually rectangular) container; may have a lid"
+    },
+    {
+        "sentence": "OLD DOOR FRAMERS never die , they just become unhinged .",
+        "src": "unhinged",
+        "sense1": "remove the hinges from",
+        "sense2": "disturb in mind or make uneasy or cause to be worried or alarmed"
+    },
+    {
+        "sentence": "I was against the construction of tennis courts in the park as I thought they would cause too much racket .",
+        "src": "racket",
+        "sense1": "celebrate noisily, often indulging in drinking; engage in uproarious festivities",
+        "sense2": "an illegal enterprise (such as extortion or fraud or drug peddling or prostitution) carried on for profit"
+    },
+    {
+        "sentence": "I ' m dying , Tom croaked .",
+        "src": "croaked",
+        "sense1": "make complaining remarks or noises under one's breath",
+        "sense2": "pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+    },
+    {
+        "sentence": "In a recession , the most secure job is garbage - man . Business is always picking up .",
+        "src": "picking",
+        "sense1": "harass with constant criticism",
+        "sense2": "the act of picking (crops or fruit or hops etc.)"
+    },
+    {
+        "sentence": "Wilbur Wright said he ' d take a flier on it .",
+        "src": "flier",
+        "sense1": "someone who travels by air",
+        "sense2": "someone who travels by air"
+    },
+    {
+        "sentence": "A man brought his retriever to the vet for some tests and had to pay a lab fee .",
+        "src": "lab"
+    },
+    {
+        "sentence": "They replaced the baseball with an orange to add zest to the game .",
+        "src": "zest",
+        "sense1": "add herbs or spices to",
+        "sense2": "vigorous and enthusiastic enjoyment"
+    },
+    {
+        "sentence": "If you operate a drill press you have a boring job .",
+        "src": "boring",
+        "sense1": "make a hole, especially with a pointed power or hand tool",
+        "sense2": "the act of drilling"
+    },
+    {
+        "sentence": "Figure skaters don ' t like to be in a rut .",
+        "src": "rut",
+        "sense1": "be in a state of sexual excitement; of male mammals",
+        "sense2": "a groove or furrow (especially one in soft earth caused by wheels)"
+    },
+    {
+        "sentence": "A thief who stole a calendar got twelve months .",
+        "src": "got",
+        "sense1": "succeed in catching or seizing, especially after a chase",
+        "sense2": "enter or assume a certain state or condition"
+    },
+    {
+        "sentence": "OLD PRINTERS never die they ' re just not the type",
+        "src": "type",
+        "sense1": "identify as belonging to a certain type",
+        "sense2": "a subdivision of a particular kind of thing"
+    },
+    {
+        "sentence": "A play , based on billiards , started right on cue .",
+        "src": "cue",
+        "sense1": "sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards",
+        "sense2": "an actor's line that immediately precedes and serves as a reminder for some action or speech"
+    },
+    {
+        "sentence": "My father slept under the bed , I think he was a little potty .",
+        "src": "potty",
+        "sense1": "(British informal) trivial",
+        "sense2": "a plumbing fixture for defecation and urination"
+    },
+    {
+        "sentence": "Is coffee your daily grind ?",
+        "src": "grind",
+        "sense1": "the grade of particle fineness to which a substance is ground",
+        "sense2": "an insignificant student who is ridiculed as being affected or boringly studious"
+    },
+    {
+        "sentence": "Some people find fire drills quite Alarming .",
+        "src": "Alarming",
+        "sense1": "fill with apprehension or alarm; cause to be unpleasantly surprised",
+        "sense2": "fill with apprehension or alarm; cause to be unpleasantly surprised"
+    },
+    {
+        "sentence": "Old math profs never die , they just can ' t differentiate .",
+        "src": "differentiate",
+        "sense1": "evolve so as to lead to a new species or develop in a way most suited to the environment",
+        "sense2": "mark as different"
+    },
+    {
+        "sentence": "The inventor of glass decided to see it through .",
+        "src": "see",
+        "sense1": "deliberate or decide",
+        "sense2": "the seat within a bishop's diocese where his cathedral is located"
+    },
+    {
+        "sentence": "A noun and a verb were dating but they broke up because the noun was too possessive .",
+        "src": "possessive",
+        "sense1": "having or showing a desire to control or dominate",
+        "sense2": "the case expressing ownership"
+    },
+    {
+        "sentence": "Hell ! . . . I\u2019d forgotten about that !",
+        "src": "Hell",
+        "sense1": "violent and excited activity",
+        "sense2": "any place of pain and turmoil"
+    },
+    {
+        "sentence": "She was only a Pitcher ' s daughter , but you should have seen her curves .",
+        "src": "curves",
+        "sense1": "extend in curves and turns",
+        "sense2": "the trace of a point whose direction of motion changes"
+    },
+    {
+        "sentence": "A baseball player can sell himself to a new team if he has a good pitch .",
+        "src": "pitch",
+        "sense1": "(baseball) the act of throwing a baseball by a pitcher to a batter",
+        "sense2": "the property of sound that varies with variation in the frequency of vibration"
+    },
+    {
+        "sentence": "' ' Use your own toothbrush ! ' ' Tom bristled .",
+        "src": "bristled",
+        "sense1": "react in an offended or angry manner",
+        "sense2": "be in a state of movement or action"
+    },
+    {
+        "sentence": "My name is Bill . I run a collection agency",
+        "src": "Bill",
+        "sense1": "a sign posted in a public place as an advertisement",
+        "sense2": "a statute in draft before it becomes law"
+    },
+    {
+        "sentence": "OLD BAKERS never die , they just stop making lots of dough .",
+        "src": "dough",
+        "sense1": "a flour mixture stiff enough to knead or roll",
+        "sense2": "a flour mixture stiff enough to knead or roll"
+    },
+    {
+        "sentence": "The couple grew fruit trees and lived to a ripe old age .",
+        "src": "ripe",
+        "sense1": "far along in time",
+        "sense2": "fully developed or matured and ready to be eaten or used"
+    },
+    {
+        "sentence": "The plumber had to quit his job because it was too much of a drain .",
+        "src": "drain",
+        "sense1": "make weak",
+        "sense2": "emptying something accomplished by allowing liquid to run out of it"
+    },
+    {
+        "sentence": "Finding area is an integral part of calculus .",
+        "src": "integral",
+        "sense1": "constituting the undiminished entirety; lacking nothing essential especially not damaged; - Bacon",
+        "sense2": "the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)"
+    },
+    {
+        "sentence": "If you sing while playing baseball , you won ' t get a good pitch .",
+        "src": "pitch",
+        "sense1": "lead (a card) and establish the trump suit",
+        "sense2": "the property of sound that varies with variation in the frequency of vibration"
+    },
+    {
+        "sentence": "OLD PINEAPPLE GROWERS never die , they just get on the dole .",
+        "src": "dole",
+        "sense1": "money received from the state",
+        "sense2": "a share of money or food or clothing that has been charitably given"
+    },
+    {
+        "sentence": "Some commands given by the army are specific , others are General .",
+        "src": "General",
+        "sense1": "command as a general",
+        "sense2": "a general officer of the highest rank"
+    },
+    {
+        "sentence": "If a horse could predict the weather , it would probably say that the weather is stable .",
+        "src": "stable",
+        "sense1": "shelter in a stable",
+        "sense2": "a farm building for housing horses or other livestock"
+    },
+    {
+        "sentence": "She was only a Weatherman ' ' s daughter , but she sure had a warm front .",
+        "src": "front",
+        "sense1": "the immediate proximity of someone or something",
+        "sense2": "the side that is forward or prominent"
+    },
+    {
+        "sentence": "OLD LOCOMOTIVE ENGINEERS , never die , they just get derailed",
+        "src": "derailed",
+        "sense1": "run off or leave the rails",
+        "sense2": "cause to run off the tracks"
+    },
+    {
+        "sentence": "A doctor who became a bartender was always giving out shots !",
+        "src": "shots",
+        "sense1": "informal words for any attempt or effort",
+        "sense2": "a solid missile discharged from a firearm"
+    },
+    {
+        "sentence": "OLD STATISTICIANS never die , they just average out .",
+        "src": "average",
+        "sense1": "relating to or constituting the most frequent value in a distribution",
+        "sense2": "a statistic describing the location of a distribution"
+    },
+    {
+        "sentence": "A little boy fired his light - colored crayons because they wouldn ' t show up .",
+        "src": "show",
+        "sense1": "take (someone) to their seats, as in theaters or auditoriums",
+        "sense2": "the act of publicly exhibiting or entertaining"
+    },
+    {
+        "sentence": "With certain cashiers , things are slow to register .",
+        "src": "register",
+        "sense1": "(music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments",
+        "sense2": "an official written record of names or events or transactions"
+    },
+    {
+        "sentence": "OLD ELECTRICIANS never die they just lose contact .",
+        "src": "contact",
+        "sense1": "be in or establish communication with",
+        "sense2": "close interaction"
+    },
+    {
+        "sentence": "' ' Perhaps I will , ' ' said Tom with all his might .",
+        "src": "might"
+    },
+    {
+        "sentence": "The comedian stopped at the fabric store on his way to a comedy gig . He was looking for new material .",
+        "src": "material",
+        "sense1": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+        "sense2": "information (data or ideas or observations) that can be used or reworked into a finished form"
+    },
+    {
+        "sentence": "- Call me a taxi . - OK , you ' re a taxi .",
+        "src": "Call",
+        "sense1": "pay a brief visit",
+        "sense2": "a telephone connection"
+    },
+    {
+        "sentence": "Someone who sells old chess pieces is a pawn broker .",
+        "src": "pawn",
+        "sense1": "(chess) the least powerful piece; moves only forward and captures only to the side; it can be promoted to a more powerful piece if it reaches the 8th rank",
+        "sense2": "a person used by another to gain an end"
+    },
+    {
+        "sentence": "The model who joined the air force was a bombshell .",
+        "src": "bombshell",
+        "sense1": "an explosive bomb or artillery shell",
+        "sense2": "a shocking surprise"
+    },
+    {
+        "sentence": "OLD PLUMBERS never die , they just pipe down .",
+        "src": "pipe",
+        "sense1": "utter a shrill cry",
+        "sense2": "a tube with a small bowl at one end; used for smoking tobacco"
+    },
+    {
+        "sentence": "The surgeon really did not know how to perform quick surgeries on insects , but he did one on the fly .",
+        "src": "fly",
+        "sense1": "change quickly from one emotional state to another",
+        "sense2": "two-winged insects characterized by active flight"
+    },
+    {
+        "sentence": "OLD STATISTICIANS never die , they just get mean .",
+        "src": "mean",
+        "sense1": "mean or intend to express or convey",
+        "sense2": "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+    },
+    {
+        "sentence": "We went to the owls convention and it was a real hoot .",
+        "src": "hoot",
+        "sense1": "utter the characteristic sound of owls",
+        "sense2": "a loud raucous cry (as of an owl)"
+    },
+    {
+        "sentence": "OLD GARDENERS never die they are just deflowered .",
+        "src": "deflowered",
+        "sense1": "deprive of virginity",
+        "sense2": "make imperfect"
+    },
+    {
+        "sentence": "In the air duct installers union they have lots of opportunity to vent .",
+        "src": "vent",
+        "sense1": "expose to cool or cold air so as to cool or freshen",
+        "sense2": "external opening of urinary or genital system of a lower vertebrate"
+    },
+    {
+        "sentence": "He and his partner made knives , and they shared a cut .",
+        "src": "cut",
+        "sense1": "make out and issue",
+        "sense2": "a share of the profits"
+    }
+]
